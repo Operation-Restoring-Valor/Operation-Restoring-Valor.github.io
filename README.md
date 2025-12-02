@@ -3,8 +3,6 @@
 # Official Repositories for Operation Restoring Valor
 https://github.com/Operation-Restoring-Valor
 
-# Washington-State
-
 **The Truth is Your Shield: Legal Defense for the Domestic Soldier (Extended Edition)**
 ---------------------------------------------------------------------------------------
 
