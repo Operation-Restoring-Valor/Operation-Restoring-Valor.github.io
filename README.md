@@ -1,5 +1,4 @@
-<iframe width="100%" height="700" src="https://www.youtube-nocookie.com/embed/HdjMn49P1AY?si=X8AFEHXGnu4gM8Pm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-# Washington-State
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HdjMn49P1AY/0.jpg)](https://www.youtube.com/watch?v=HdjMn49P1AY)
 
 **The Truth is Your Shield: Legal Defense for the Domestic Soldier (Extended Edition)**
 ---------------------------------------------------------------------------------------
