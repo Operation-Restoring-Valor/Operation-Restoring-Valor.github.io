@@ -1,5 +1,5 @@
-`<p align="center">`![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HdjMn49P1AY/0.jpg)(https://www.youtube.com/watch?v=HdjMn49P1AY)
-`</p>
+` <p align="center">![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HdjMn49P1AY/0.jpg)(https://www.youtube.com/watch?v=HdjMn49P1AY)
+</p>
 
 # Washington-State
 
