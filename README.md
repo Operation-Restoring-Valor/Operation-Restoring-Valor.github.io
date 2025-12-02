@@ -1,4 +1,4 @@
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HdjMn49P1AY/0.jpg)(https://www.youtube.com/watch?v=HdjMn49P1AY)
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HdjMn49P1AY/0.jpg)<br>(https://www.youtube.com/watch?v=HdjMn49P1AY)
 
 # Official Repositories for Operation Restoring Valor
 https://github.com/Operation-Restoring-Valor
